@@ -9,3 +9,15 @@ html, body {
 .grayscale img {
   filter: grayscale(100%);
 }
+
+ /* classes to add color  */
+.site-color{
+    color: #E76F51;
+}
+.site-button-bg{
+    background-color: #E76F51;
+}
+
+.video{
+    height: 50vh;
+}
